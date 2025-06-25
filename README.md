@@ -16,7 +16,7 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 
 | #    | Problem                                                                                                                                  | Level  | Status |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| 1378 | [Replace Employee ID With The Unique Identifier](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1378_Replace_Employee_ID_With_The_Unique_Identifier.sql)               | Easy   | SOLVED |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://github.com/AlexOksam/SQL50/blob/main/1378_Replace_Employee_ID_With_The_Unique_Identifier.sql)               | Easy   | SOLVED |
 | 1068 | [Product Sales Analysis I](https://github.com/AlexOksam/SQL50/blob/main/1068_Product_Sales_Analysis_I.sql)                                                          | Easy   | SOLVED |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) | Easy   | SOLVED |
 | 197  | [Rising Temperature](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/197_Rising_Temperature.sql)                                                                          | Easy   | SOLVED |
