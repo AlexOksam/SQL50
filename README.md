@@ -21,7 +21,7 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://github.com/AlexOksam/SQL50/blob/main/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) | Easy   | SOLVED |
 | 197  | [Rising Temperature](https://github.com/AlexOksam/SQL50/blob/main/197_Rising_Temperature.sql)                                                                          | Easy   | SOLVED |
 | 1661 | [Average Time of Process per Machine](https://github.com/AlexOksam/SQL50/blob/main/1661_Average_Time_of_Process_per_Machine.sql)                                      | Easy   | SOLVED |
-| 577  | [Employee Bonus](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/577_Employee_Bonus.sql)                                                                                 | Easy   | SOLVED |
+| 577  | [Employee Bonus](https://github.com/AlexOksam/SQL50/blob/main/577_Employee_Bonus.sql)                                                                                 | Easy   | SOLVED |
 | 1280 | [Students and Examinations](https://github.com/AlexOksam/SQL50/blob/main/1280_Students_and_Examinations.sql)                                                           | Easy   | SOLVED |
 | 570  | [Managers with at Least 5 Direct Reports](https://github.com/AlexOksam/SQL50/blob/main/570_Managers_with_at_Least_5_Direct_Reports.sql)                              | Medium | SOLVED |
 | 1934 | [Confirmation Rate]                                                                | Medium | - |
