@@ -8,7 +8,7 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 | ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
 | 1757 | [Recyclable and Low Fat Products](https://github.com/AlexOksam/SQL50/blob/main/1757_Recyclable_and_Low_Fat_Products.sql)| Easy  | SOLVED |
 | 584  | [Find Customer Referee](https://github.com/AlexOksam/SQL50/blob/main/584_Find_Customer_Referee.sql)                    | Easy  | SOLVED |
-| 595  | [Big Countries](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/595_Big_Countries.sql)                                     | Easy  | SOLVED |
+| 595  | [Big Countries](https://github.com/AlexOksam/SQL50/blob/main/595_Big_Countries.sql)                                     | Easy  | SOLVED |
 | 1148 | [Article Views](https://github.com/AlexOksam/SQL50/blob/main/1148_Article_Views_I.sql)                                 | Easy  | SOLVED |
 | 1683 | [Invalid Tweets](https://github.com/AlexOksam/SQL50/blob/main/1683_Invalid_Tweets.sql)                                | Easy  | SOLVED |
 
