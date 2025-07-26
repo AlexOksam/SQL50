@@ -32,7 +32,7 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 | ---- | ---------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
 | 620  | [Not Boring Movies](https://github.com/AlexOksam/SQL50/blob/main/620_Not_Boring_Movies.sql)                   | Easy   | SOLVED |
 | 1251 | [Average Selling Price](https://github.com/AlexOksam/SQL50/blob/main/1251_Average_Selling_Price.sql)          | Easy   | SOLVED |
-| 1075 | [Project Employees I]                                      | Easy   | - |
+| 1075 | [Project Employees I](https://github.com/AlexOksam/SQL50/blob/main/1075_Project_Employees_I.sql)              | Easy   | - |
 | 1633 | [Percentage of Users Attended a Contest] | Easy   | - |
 | 1211 | [Queries Quality and Percentage]               | Easy   | - |
 | 1193 | [Monthly Transactions I]                              | Medium | - |
