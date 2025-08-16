@@ -55,7 +55,7 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 
 | #    | Problem                                                                                                                                              | Level  | Status |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| 1731 | [The Number of Employees Which Report to Each Employee]                         | Easy   | - |
+| 1731 | [The Number of Employees Which Report to Each Employee](https://github.com/AlexOksam/SQL50/blob/main/SOLUTIONS/1978_Employees_Whose_Manager_Left_the_Company.sql)                         | Easy   | SOLVED |
 | 1789 | [Primary Department for Each Employee]                                   | Easy   | - |
 | 610  | [Triangle Judgement]                                                                   | Easy   | - |
 | 180  | [Consecutive Numbers]                                                             | Medium | - |
