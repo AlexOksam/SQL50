@@ -24,7 +24,7 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 | 577  | [Employee Bonus](https://github.com/AlexOksam/SQL50/blob/main/577_Employee_Bonus.sql)                                                                                 | Easy   | SOLVED |
 | 1280 | [Students and Examinations](https://github.com/AlexOksam/SQL50/blob/main/1280_Students_and_Examinations.sql)                                                           | Easy   | SOLVED |
 | 570  | [Managers with at Least 5 Direct Reports](https://github.com/AlexOksam/SQL50/blob/main/570_Managers_with_at_Least_5_Direct_Reports.sql)                              | Medium | SOLVED |
-| 1934 | [Confirmation Rate]                                                                | Medium | - |
+| 1934 | [Confirmation Rate](https://github.com/AlexOksam/SQL50/blob/main/1934_Confirmation_Rate.sql)                                                                | Medium | - |
 
 ### Basic Aggregate Functions
 
